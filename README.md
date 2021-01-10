@@ -1,18 +1,16 @@
-<<<<<<< HEAD
-# README Generator
-=======
-# READme Generator
->>>>>>> 63639f57d535d0e1ac22eee77e981f29523c6a56
+
+    
+    # README Generator
     ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
     ## Table of Contents
-    *[Description](#description)
-    *[Installation](#installation)
-    *[Usage](#usage)
-    *[License](#license)
-    *[Contributors](#contributors)
-    *[Test](#test)
-    *[Questions](#questions)
+    * [Description](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [License](#license)
+    * [Contributors](#contributors)
+    * [Test](#test)
+    * [Questions](#questions)
 
     ## Description
     Use node.js to create a readme.md
