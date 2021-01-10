@@ -1,6 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(response) {
-    return `# ${response.title}
+    return `# ${response.Title}
     ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
     ## Table of Contents
