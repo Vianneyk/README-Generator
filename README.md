@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # README Generator
+=======
+# READme Generator
+>>>>>>> 63639f57d535d0e1ac22eee77e981f29523c6a56
     ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
     ## Table of Contents
