@@ -24,8 +24,6 @@ function generateMarkdown(response) {
     ${response.Usage}
 
     ## License
-    ![badge](https://img.shields.io/badge/license-${response.License}-brightgreen)
-    
     This application is covered by the ${response.license} license.
 
     ## Contributors
