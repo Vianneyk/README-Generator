@@ -64,8 +64,8 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err) => {
+function writeToFile(fileName, response) {
+    fs.writeFile(fileName, response, (err) => {
         if (err) {
             throw err;
         }

@@ -22,8 +22,6 @@
     Run node index.js in th eterminal
 
     ## License
-    ![badge](https://img.shields.io/badge/license-No license-brightgreen)
-    
     This application is covered by the undefined license.
 
     ## Contributors
