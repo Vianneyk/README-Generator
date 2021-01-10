@@ -1,4 +1,4 @@
-# undefined
+# READme Generator
     ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
     ## Table of Contents
