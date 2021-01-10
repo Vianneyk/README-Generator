@@ -35,8 +35,8 @@
     ## Questions
     None
     
-    :octocat: Find me on GitHub: [Vianneyk](https://github.com/Vianneyk)
+    Find me on GitHub: [Vianneyk](https://github.com/Vianneyk)
     
-    ✉️ Email me with any questions: vianneyk@hotmail.co.uk
+    Email me with any questions: vianneyk@hotmail.co.uk
 
   
