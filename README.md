@@ -1,6 +1,6 @@
 # README Generator
 
-https://user-images.githubusercontent.com/68753820/104135839-56b18980-538a-11eb-9d97-2e02f975939d.mov
+
 
 
 ## Table of Contents
