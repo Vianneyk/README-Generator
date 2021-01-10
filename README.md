@@ -1,4 +1,4 @@
-# undefined
+# README Generator
     ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
     ## Table of Contents
@@ -11,13 +11,13 @@
     *[Questions](#questions)
 
     ## Description
-    Use node.js to create a READme.md
+    Use node.js to create a readme.md
 
     ## Installation
     Clone from my Github repo
 
     ## Usage
-    Run node index.js in the terminal
+    Run node index.js in th eterminal
 
     ## License
     ![badge](https://img.shields.io/badge/license-No license-brightgreen)
