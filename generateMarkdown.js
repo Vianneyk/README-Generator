@@ -25,7 +25,7 @@ function generateMarkdown(response) {
 
     ## License
     ![badge](https://img.shields.io/badge/license-${response.License}-brightgreen)
-    <br />
+    
     This application is covered by the ${response.license} license.
 
     ## Contributors
@@ -35,11 +35,11 @@ function generateMarkdown(response) {
     ${response.Test}
 
     ## Questions
-    ${response.Questions}<br/>
-    <br/>
-    :octocat: Find me on GitHub: [${response.Github}](https://github.com/${response.Github})<br />
-    <br />
-    ✉️ Email me with any questions: ${response.Email}<br /><br />
+    ${response.Questions}
+    
+    :octocat: Find me on GitHub: [${response.Github}](https://github.com/${response.Github})
+    
+    ✉️ Email me with any questions: ${response.Email}
 
   `;
   }
