@@ -37,9 +37,9 @@ function generateMarkdown(response) {
     ## Questions
     ${response.Questions}
     
-    :octocat: Find me on GitHub: [${response.Github}](https://github.com/${response.Github})
+    Find me on GitHub: [${response.Github}](https://github.com/${response.Github})
     
-    ✉️ Email me with any questions: ${response.Email}
+    Email me with any questions: ${response.Email}
 
   `;
   }
