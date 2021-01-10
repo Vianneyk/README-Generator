@@ -3,7 +3,6 @@ function generateMarkdown(response) {
     return `
     
     # ${response.Title}
-    ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
     ## Table of Contents
     * [Description](#description)

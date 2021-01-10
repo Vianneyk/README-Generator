@@ -1,7 +1,6 @@
 
     
     # README Generator
-    ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
     ## Table of Contents
     * [Description](#description)
@@ -13,13 +12,13 @@
     * [Questions](#questions)
 
     ## Description
-    A node.js application that uses input from inquirer to populate a README.md file for user repository
+    Use node.js to create a readme.md
 
     ## Installation
-    Clone from my Github repository
+    Clone from my git hub repo
 
     ## Usage
-    Run node index.js from the terminal
+    run node index.js in the terminal
 
     ## License
     This application is covered by the undefined license.
@@ -28,7 +27,7 @@
     None
 
     ## Test
-    Run node index.js from the terminal
+    Run node index.js in the terminal
 
     ## Questions
     None
@@ -37,4 +36,4 @@
     
     Email me with any questions: vianneyk@hotmail.co.uk
 
-  
+  # README-Generator
